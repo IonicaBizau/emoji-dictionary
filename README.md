@@ -22,21 +22,26 @@ console.log(emoji.getUnicode("heart_eyes"));
 console.log(emoji.unicode);
 // [ '💯',
 //   '🔢',
+//   '😀',
+//   '😬',
+//   '😁',
+//   '😂',
+//   '😃',
+//   '😄',
 //   ...
-//   '🇪🇭',
-//   '🇾🇪',
 //   '🇿🇲',
-//   '🇿🇼',
-//   'null' ]
+//   '🇿🇼' ]
 
 console.log(emoji.names);
 // [ '100',
 //   '1234',
 //   'grinning',
-//   'rage4',
+//   'grimacing',
+//   'grin',
 //   ...
-//   'suspect',
-//   'hurtrealbad' ]
+//   'ye',
+//   'zm',
+//   'zw' ]
 ```
 
 ## Documentation
