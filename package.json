@@ -1,6 +1,6 @@
 {
   "name": "emoji-dictionary",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Convert emoji names in unicode characters and vice versa.",
   "main": "lib/index.js",
   "directories": {
@@ -31,5 +31,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/emoji-dictionary/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/emoji-dictionary#readme"
+  "homepage": "https://github.com/IonicaBizau/emoji-dictionary#readme",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
