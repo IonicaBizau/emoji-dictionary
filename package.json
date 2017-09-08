@@ -1,6 +1,6 @@
 {
   "name": "emoji-dictionary",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Convert emoji names in unicode characters and vice versa.",
   "main": "lib/index.js",
   "directories": {
@@ -42,6 +42,9 @@
     "resources/",
     "menu/",
     "cli.js",
-    "index.js"
+    "index.js",
+    "bloggify.js",
+    "bloggify.json",
+    "bloggify/"
   ]
 }
