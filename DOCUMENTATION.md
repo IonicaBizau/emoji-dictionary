@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Gets the name of the unicode emoji.
 
 #### Params
+
 - **String** `unicodeChar`: The emoji unicode character.
 
 #### Return
@@ -15,6 +16,7 @@ Gets the name of the unicode emoji.
 Gets the unicode character by providing the emoji name.
 
 #### Params
+
 - **String** `name`: The emoji name.
 
 #### Return
