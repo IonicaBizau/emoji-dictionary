@@ -10,7 +10,11 @@
 ## :cloud: Installation
 
 ```sh
-$ npm i --save emoji-dictionary
+# Using npm
+npm install --save emoji-dictionary
+
+# Using yarn
+yarn add emoji-dictionary
 ```
 
 
